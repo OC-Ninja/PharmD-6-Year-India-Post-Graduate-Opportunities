@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-👉 **[View the Web App]([https://your-username.github.io/your-repo-name](https://oc-ninja.github.io/PharmD-6-Year-India-Post-Graduate-Opportunities/))**
+👉 **[View the Web App](https://oc-ninja.github.io/PharmD-6-Year-India-Post-Graduate-Opportunities/)**
 
 ---
 
