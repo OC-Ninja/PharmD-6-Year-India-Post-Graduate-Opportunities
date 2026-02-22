@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-👉 **[View the Web App](https://your-username.github.io/your-repo-name)**
+👉 **[View the Web App]([https://your-username.github.io/your-repo-name](https://oc-ninja.github.io/PharmD-6-Year-India-Post-Graduate-Opportunities/))**
 
 ---
 
@@ -97,8 +97,8 @@ Simply visit the live GitHub Pages link above.
 
 **Option 2 — Run Locally**
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/OC-Ninja/PharmD-6-Year-India-Post-Graduate-Opportunities.git
+cd PharmD-6-Year-India-Post-Graduate-Opportunities
 # Open pharmd_opportunities_VERIFIED_2025.html in any browser
 ```
 
@@ -128,7 +128,7 @@ Please **do not submit salary data without a verifiable source** (Glassdoor, Pay
 
 ## 📬 Feedback
 
-If this resource helped you — or if you found an error — feel free to open an [Issue](https://github.com/your-username/your-repo-name/issues) or start a [Discussion](https://github.com/your-username/your-repo-name/discussions).
+If this resource helped you — or if you found an error — feel free to open an [Issue](https://github.com/OC-Ninja/PharmD-6-Year-India-Post-Graduate-Opportunities/issues) or start a [Discussion](https://github.com/OC-Ninja/PharmD-6-Year-India-Post-Graduate-Opportunities/discussions).
 
 This was built to help the PharmD community. The more accurate it is, the more people it helps.
 
